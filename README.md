@@ -1,6 +1,6 @@
 👋 Hi, I'm Gurpreet Singh
 🛡️ Aspiring Red Team Engineer | Offensive Security Specialist in Training
-Currently working at Popov Leather while building my cybersecurity skills through intensive hands-on labs and certifications.
+Currently working on building my cybersecurity skills through intensive hands-on labs and certifications.
 🎯 Current Focus (2025-2027)
 
 🔐 Web Application Security: 150+ hands-on exploitation labs (PortSwigger Academy)
