@@ -1,12 +1,12 @@
 👋 Hi, I'm Gurpreet Singh
 🛡️ Aspiring Red Team Engineer | Offensive Security Specialist in Training
 Currently working on building my cybersecurity skills through intensive hands-on labs and certifications.
-🎯 Current Focus (2025-2027)
+🎯 **Current Focus**
 
 🔐 Web Application Security: 150+ hands-on exploitation labs (PortSwigger Academy)
 🐧 Linux & Tools: Kali Linux, Burp Suite, Python scripting for security automation
 💻 Red Team Techniques: Reconnaissance, exploitation, privilege escalation
-🎯 2027 Milestone: Security+ Certification preparation
+🎯 Milestone: Security+ Certification preparation
 
 🔧 Technical Skills
 Offensive Security Focus:
@@ -30,7 +30,7 @@ Offensive Security Labs - Documented web security exploitation and red team tech
 Authentication Attacks: Session hijacking, password attacks, 2FA bypass (14 labs)
 Business Logic Flaws: Exploitation of application workflows (5 labs)
 In Progress: SQL Injection, XSS, CSRF, and more
-Target: 150+ documented exploitations by 2027
+Target: 150+ documented exploitations.
 
 🎓 Roadmap
 
