@@ -47,4 +47,4 @@ Become a Red Team Engineer specializing in offensive security operations and att
 
 💼 Building skills for future red team opportunities.
 🤝 Open to learning from experienced security professionals.
-📧 Contact info - sas487f@gmail.com
+📧 Contact info - gskhalsa6245@gmail.com
