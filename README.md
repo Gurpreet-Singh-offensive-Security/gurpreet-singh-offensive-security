@@ -96,34 +96,78 @@ I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through
 
 ## 🔧 Technical Arsenal
 
-### Offensive Security Expertise
+### 💻 Programming & Scripting Expertise
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Expert-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### 🛡️ Offensive Security Tools
+
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Professional-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Pentesting-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+### 🎯 Vulnerability Expertise
+
+<div align="center">
+
+![SQLi](https://img.shields.io/badge/SQL_Injection-Expert-critical?style=for-the-badge)
+![XSS](https://img.shields.io/badge/Cross--Site_Scripting-Advanced-orange?style=for-the-badge)
+![Auth Bypass](https://img.shields.io/badge/Authentication_Bypass-Expert-red?style=for-the-badge)
+![CSRF](https://img.shields.io/badge/CSRF-Advanced-yellow?style=for-the-badge)
+![Business Logic](https://img.shields.io/badge/Business_Logic-Expert-9cf?style=for-the-badge)
+
+</div>
+
+### Offensive Security Skills
 ```python
+# Gurpreet Singh - Security Arsenal
 skills = {
+    "Languages & Scripting": {
+        "Python": "Expert - Security automation & exploit development",
+        "SQL": "Expert - Database exploitation & injection techniques",
+        "Bash": "Expert - System automation & penetration testing scripts",
+        "Linux": "Expert - Kali Linux, command line, system administration"
+    },
     "Web Application PenTest": [
         "SQL Injection (SQLi)",
         "Cross-Site Scripting (XSS)", 
         "Authentication Bypass",
         "CSRF & Session Attacks",
-        "Business Logic Exploitation"
+        "Business Logic Exploitation",
+        "API Security Testing"
     ],
     "Tools & Platforms": [
-        "Burp Suite Professional",
-        "Kali Linux",
-        "Python (Security Automation)",
+        "Burp Suite Professional (Licensed)",
+        "Kali Linux Distribution",
+        "Python Security Libraries",
         "Bash Scripting",
-        "Turbo Intruder"
+        "Turbo Intruder",
+        "Custom Exploit Development"
     ],
     "Red Team Operations": [
         "Reconnaissance & OSINT",
         "Vulnerability Research",
         "Exploit Development",
         "Privilege Escalation",
-        "Attack Chain Documentation"
+        "Attack Chain Documentation",
+        "Network Enumeration"
     ]
 }
 ```
 
-### Learning & Development
+### Learning & Development Methodology
 ```mermaid
 graph LR
     A[Vulnerability Research] --> B[Exploitation]
@@ -135,6 +179,37 @@ graph LR
     style C fill:#cc5de8
     style D fill:#845ef7
 ```
+
+---
+
+## 📊 Skills & Progress
+
+<div align="center">
+
+### 📈 Lab Completion Progress
+```
+Authentication Attacks    ████████████████████ 100% (14/14 labs)
+Business Logic Flaws      ████████████████████ 100% (5/5 labs)
+SQL Injection            ████░░░░░░░░░░░░░░░░  20% (In Progress)
+Cross-Site Scripting     ██░░░░░░░░░░░░░░░░░░  10% (In Progress)
+CSRF & Session Attacks    ░░░░░░░░░░░░░░░░░░░░   0% (Planned)
+Overall Progress          ███░░░░░░░░░░░░░░░░░  13% (20/150 labs)
+```
+
+**🎯 2026 Milestone:** 75 labs completed | **🚀 2027 Goal:** 150 labs + Security+ certified
+
+### 🏆 Expertise Breakdown
+
+| Skill Domain | Proficiency | Focus Area |
+|--------------|-------------|------------|
+| 🐍 **Python** | ⭐⭐⭐⭐⭐ Expert | Security automation, exploit scripting |
+| 💾 **SQL** | ⭐⭐⭐⭐⭐ Expert | Database exploitation, injection attacks |
+| 🐧 **Linux** | ⭐⭐⭐⭐⭐ Expert | Kali Linux, system administration, CLI |
+| 📜 **Bash** | ⭐⭐⭐⭐⭐ Expert | Shell scripting, automation, pentesting |
+| 🔍 **Burp Suite** | ⭐⭐⭐⭐⭐ Professional | Web app testing, Turbo Intruder |
+| 🎯 **Web Attacks** | ⭐⭐⭐⭐☆ Advanced | SQLi, XSS, Auth bypass, CSRF |
+
+</div>
 
 ---
 
@@ -186,21 +261,13 @@ graph LR
 
 ### 🚀 Current Mission (2025-2027)
 
-*Master web application security through 150+ practical exploitation labs, focusing on real-world attack techniques and professional documentation that demonstrates deep technical expertise.*
+*Master web application security through 150+ practical exploitation labs, focusing on real-world attack techniques and professional documentation that demonstrates deep technical expertise in Python, SQL, Linux, and Bash.*
 
 ### 🌟 Long-term Vision
 
 *Become a Red Team Engineer specializing in offensive security operations, attack simulation, and advanced penetration testing for enterprise environments.*
 
 </div>
-
----
-
-## 📊 GitHub Activity
-
-![Gurpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurpreet-Singh-offensive-Security&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F06595&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreet-Singh-offensive-Security&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
 
 ---
 
@@ -219,6 +286,7 @@ graph LR
 🌍 **Location:** Canada  
 🎯 **Specialization:** Web Application Penetration Testing | Offensive Security  
 🛡️ **Focus Areas:** OWASP Top 10 | Authentication Attacks | Exploit Development  
+💻 **Core Skills:** Python | SQL | Linux | Bash | Burp Suite Professional  
 
 </div>
 
@@ -233,7 +301,8 @@ graph LR
 ---
 
 **Gurpreet Singh** | Offensive Security Researcher | Red Team Operations  
-🔴 Penetration Testing • 🛡️ Web Application Security • 🎯 Vulnerability Research
+🔴 Penetration Testing • 🛡️ Web Application Security • 🎯 Vulnerability Research  
+💻 Python Expert • 💾 SQL Expert • 🐧 Linux Expert • 📜 Bash Expert
 
 *Last Updated: January 2026*
 
