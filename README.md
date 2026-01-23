@@ -198,11 +198,11 @@ graph LR
 
 ### 📈 Lab Completion Status
 ```
-Authentication Attacks    ██████████████████░░ 86% (12/14 labs)
+Authentication Attacks    ██████████████████░░ 86% (14/14 labs)
 Web Cache Deception      ████████████████████ 100% (5/5 labs)
-SQL Injection            ░░░░░░░░░░░░░░░░░░░░   0% (Starting soon)
+SQL Injection            ░░░░░░░░░░░░░░░░░░░░   0% (Started)
 Cross-Site Scripting     ░░░░░░░░░░░░░░░░░░░░   0% (Planned)
-Overall Progress          ██░░░░░░░░░░░░░░░░░░   6% (17/278 labs)
+Overall Progress          ██░░░░░░░░░░░░░░░░░░   6% (19/278 labs)
 ```
 
 **🎯 Current Target:** Working toward 150+ labs | **📍 Progress:** 17 labs documented
