@@ -4,7 +4,7 @@
 ### Red Team Engineer in Training | Offensive Security Specialist
 
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-critical?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Labs%20Completed-17-success?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Labs%20Completed-19-success?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/Target-150%2B%20Labs-informational?style=for-the-badge&logo=bullseye&logoColor=white" />
 
 [![Portfolio](https://img.shields.io/badge/🎯_View_Portfolio-Offensive_Security_Labs-red?style=for-the-badge)](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
@@ -71,9 +71,9 @@ I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through
 
 | Category | Status | Labs Completed |
 |----------|--------|----------------|
-| 🔓 **Authentication Attacks** | 🔥 **Active** | **12/14 labs** |
+| 🔓 **Authentication Attacks** | 🔥 **Active** | **14/14 labs** |
 | 💾 **Web Cache Deception** | ✅ **Complete** | **5/5 labs** |
-| 💉 SQL Injection | 📋 Next Up | Coming soon |
+| 💉 SQL Injection | 📋 Next Up | Started|
 | 🎨 Cross-Site Scripting (XSS) | 📋 Planned | Coming soon |
 | 🔗 CSRF & Session Attacks | 📋 Planned | Coming soon |
 
@@ -82,7 +82,7 @@ I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through
 **Breakdown by Difficulty:**
 - 🟢 Apprentice: 4 labs
 - 🟡 Practitioner: 12 labs  
-- 🔴 Expert: 1 lab
+- 🔴 Expert: 3 lab
 
 </details>
 
@@ -213,7 +213,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 |-----------------|-----------|-------|----------|
 | 🟢 **Apprentice** | 4 | 89 | ████░░░░░░░░░░░░░░░░ 4% |
 | 🟡 **Practitioner** | 12 | 142 | ████████░░░░░░░░░░░░ 8% |
-| 🔴 **Expert** | 1 | 47 | ██░░░░░░░░░░░░░░░░░░ 2% |
+| 🔴 **Expert** | 3 | 47 | ██░░░░░░░░░░░░░░░░░░ 2% |
 
 ### 🏆 Skill Proficiency by Domain
 
@@ -329,7 +329,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 ---
 
 **Gurpreet Singh** | Offensive Security Researcher | Red Team Operations  
-🔴 17 Labs Completed • 🛡️ Authentication Expert • 💾 Cache Attack Specialist  
+🔴 19 Labs Completed • 🛡️ Authentication Attack Practitioner • 💾 Cache Attack Practitioner   
 💻 Python Expert • 💾 SQL Expert • 🐧 Linux Expert • 📜 Bash Expert
 
 *Active learner documenting every step of the journey*
