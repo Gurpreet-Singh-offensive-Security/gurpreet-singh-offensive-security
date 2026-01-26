@@ -22,6 +22,7 @@
 I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through intensive hands-on penetration testing and vulnerability research. My focus is on practical, real-world offensive security techniques with comprehensive documentation of every exploitation.
 
 <div align="center">
+
 ```
 🔴 Offensive Security    🐧 Linux Security        💻 Red Team Ops
 🔐 Web App PenTest      🐍 Python Automation     📝 Technical Writing
@@ -42,7 +43,7 @@ I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through
 - OWASP Top 10 vulnerabilities
 - Authentication & session attacks
 - Business logic exploitation
-- **17 labs completed** and growing
+- **19 labs completed** and growing
 
 </td>
 <td width="50%">
@@ -71,18 +72,18 @@ I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through
 
 | Category | Status | Labs Completed |
 |----------|--------|----------------|
-| 🔓 **Authentication Attacks** | 🔥 **Active** | **14/14 labs** |
+| 🔓 **Authentication Attacks** | ✅ **Complete** | **14/14 labs** |
 | 💾 **Web Cache Deception** | ✅ **Complete** | **5/5 labs** |
 | 💉 SQL Injection | 📋 Next Up | Started|
 | 🎨 Cross-Site Scripting (XSS) | 📋 Planned | Coming soon |
 | 🔗 CSRF & Session Attacks | 📋 Planned | Coming soon |
 
-**Total Progress:** 17 labs completed | **Goal:** Working toward 150+ labs
+**Total Progress:** 19 labs completed | **Goal:** Working toward 150+ labs
 
 **Breakdown by Difficulty:**
 - 🟢 Apprentice: 4 labs
 - 🟡 Practitioner: 12 labs  
-- 🔴 Expert: 3 lab
+- 🔴 Expert: 3 labs
 
 </details>
 
@@ -152,7 +153,7 @@ expertise = {
         "Linux": "Expert - Kali Linux, command line, system administration"
     },
     "Web Application PenTest": [
-        "Authentication Bypass (12 labs completed)",
+        "Authentication Bypass (14 labs completed)",
         "Web Cache Deception (5 labs - Complete mastery)",
         "SQL Injection (SQLi)",
         "Cross-Site Scripting (XSS)", 
@@ -198,14 +199,14 @@ graph LR
 
 ### 📈 Lab Completion Status
 ```
-Authentication Attacks    ██████████████████░░ 86% (14/14 labs)
+Authentication Attacks    ████████████████████ 100% (14/14 labs)
 Web Cache Deception      ████████████████████ 100% (5/5 labs)
 SQL Injection            ░░░░░░░░░░░░░░░░░░░░   0% (Started)
 Cross-Site Scripting     ░░░░░░░░░░░░░░░░░░░░   0% (Planned)
-Overall Progress          ██░░░░░░░░░░░░░░░░░░   6% (19/278 labs)
+Overall Progress          ██░░░░░░░░░░░░░░░░░░   7% (19/278 labs)
 ```
 
-**🎯 Current Target:** Working toward 150+ labs | **📍 Progress:** 17 labs documented
+**🎯 Current Target:** Working toward 150+ labs | **📍 Progress:** 19 labs documented
 
 ### 🏆 Skill Proficiency by Difficulty
 
@@ -213,7 +214,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 |-----------------|-----------|-------|----------|
 | 🟢 **Apprentice** | 4 | 89 | ████░░░░░░░░░░░░░░░░ 4% |
 | 🟡 **Practitioner** | 12 | 142 | ████████░░░░░░░░░░░░ 8% |
-| 🔴 **Expert** | 3 | 47 | ██░░░░░░░░░░░░░░░░░░ 2% |
+| 🔴 **Expert** | 3 | 47 | ██░░░░░░░░░░░░░░░░░░ 6% |
 
 ### 🏆 Skill Proficiency by Domain
 
@@ -224,7 +225,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 | 🐧 **Linux** | ⭐⭐⭐⭐⭐ | Expert - Kali Linux & system administration |
 | 📜 **Bash** | ⭐⭐⭐⭐⭐ | Expert - Shell scripting & automation |
 | 🔍 **Burp Suite** | ⭐⭐⭐⭐⭐ | Professional - Advanced web app testing |
-| 🔐 **Auth Attacks** | ⭐⭐⭐⭐⭐ | Expert - 12 labs mastered |
+| 🔐 **Auth Attacks** | ⭐⭐⭐⭐⭐ | Expert - 14 labs mastered |
 | 💾 **Cache Attacks** | ⭐⭐⭐⭐⭐ | Expert - Complete category |
 
 </div>
@@ -240,10 +241,10 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 ### 📅 Current
 **Building Foundations**
 
-✅ Authentication (12/14)  
+✅ Authentication (14/14)  
 ✅ Web Cache Deception (5/5)  
-🔄 Finishing Authentication  
-📋 SQL Injection Next  
+🔄 Starting SQL Injection  
+📋 Access Control Next  
 
 </td>
 <td align="center" width="33%">
@@ -329,7 +330,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 ---
 
 **Gurpreet Singh** | Offensive Security Researcher | Red Team Operations  
-🔴 19 Labs Completed • 🛡️ Authentication Attack Practitioner • 💾 Cache Attack Practitioner   
+🔴 19 Labs Completed • 🛡️ Authentication Expert • 💾 Cache Attack Expert   
 💻 Python Expert • 💾 SQL Expert • 🐧 Linux Expert • 📜 Bash Expert
 
 *Active learner documenting every step of the journey*
