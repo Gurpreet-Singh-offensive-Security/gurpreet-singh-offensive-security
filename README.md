@@ -4,7 +4,7 @@
 ### Red Team Engineer in Training | Offensive Security Specialist
 
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-critical?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Labs%20Completed-19-success?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Labs%20Completed-21-success?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/Target-150%2B%20Labs-informational?style=for-the-badge&logo=bullseye&logoColor=white" />
 
 [![Portfolio](https://img.shields.io/badge/🎯_View_Portfolio-Offensive_Security_Labs-red?style=for-the-badge)](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
@@ -43,7 +43,7 @@ I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through
 - OWASP Top 10 vulnerabilities
 - Authentication & session attacks
 - Business logic exploitation
-- **19 labs completed** and growing
+- **21 labs completed** and growing
 
 </td>
 <td width="50%">
@@ -74,14 +74,14 @@ I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through
 |----------|--------|----------------|
 | 🔓 **Authentication Attacks** | ✅ **Complete** | **14/14 labs** |
 | 💾 **Web Cache Deception** | ✅ **Complete** | **5/5 labs** |
-| 💉 SQL Injection | 📋 Next Up | Started|
+| 💉 **SQL Injection** | 🔥 **Active** | **2/18 labs** |
 | 🎨 Cross-Site Scripting (XSS) | 📋 Planned | Coming soon |
 | 🔗 CSRF & Session Attacks | 📋 Planned | Coming soon |
 
-**Total Progress:** 19 labs completed | **Goal:** Working toward 150+ labs
+**Total Progress:** 21 labs completed | **Goal:** Working toward 150+ labs
 
 **Breakdown by Difficulty:**
-- 🟢 Apprentice: 4 labs
+- 🟢 Apprentice: 6 labs
 - 🟡 Practitioner: 12 labs  
 - 🔴 Expert: 3 labs
 
@@ -97,6 +97,7 @@ I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through
 - ✅ **Remediation guidance** and secure coding recommendations
 
 **Recent Highlights:**
+- 🎯 SQL Injection Apprentice Labs (Completed)
 - 🎯 Broken Brute-Force Protection Bypass (Turbo Intruder + Python)
 - 🎯 2FA Bypass Techniques (Multiple methods)
 - 🎯 Web Cache Deception (Advanced normalization exploitation)
@@ -136,7 +137,7 @@ I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through
 
 ![Auth Bypass](https://img.shields.io/badge/Authentication_Bypass-Expert-red?style=for-the-badge)
 ![Cache Attacks](https://img.shields.io/badge/Web_Cache_Deception-Expert-purple?style=for-the-badge)
-![SQLi](https://img.shields.io/badge/SQL_Injection-Advanced-critical?style=for-the-badge)
+![SQLi](https://img.shields.io/badge/SQL_Injection-Active-critical?style=for-the-badge)
 ![XSS](https://img.shields.io/badge/Cross--Site_Scripting-Advanced-orange?style=for-the-badge)
 ![Business Logic](https://img.shields.io/badge/Business_Logic-Advanced-9cf?style=for-the-badge)
 
@@ -155,7 +156,7 @@ expertise = {
     "Web Application PenTest": [
         "Authentication Bypass (14 labs completed)",
         "Web Cache Deception (5 labs - Complete mastery)",
-        "SQL Injection (SQLi)",
+        "SQL Injection (2 labs - Apprentice cleared, Practitioner active)",
         "Cross-Site Scripting (XSS)", 
         "CSRF & Session Attacks",
         "Business Logic Exploitation",
@@ -201,18 +202,18 @@ graph LR
 ```
 Authentication Attacks    ████████████████████ 100% (14/14 labs)
 Web Cache Deception      ████████████████████ 100% (5/5 labs)
-SQL Injection            ░░░░░░░░░░░░░░░░░░░░   0% (Started)
+SQL Injection            ██░░░░░░░░░░░░░░░░░░  11% (2/18 labs)
 Cross-Site Scripting     ░░░░░░░░░░░░░░░░░░░░   0% (Planned)
-Overall Progress          ██░░░░░░░░░░░░░░░░░░   7% (19/278 labs)
+Overall Progress          ██░░░░░░░░░░░░░░░░░░   8% (21/278 labs)
 ```
 
-**🎯 Current Target:** Working toward 150+ labs | **📍 Progress:** 19 labs documented
+**🎯 Current Target:** Working toward 150+ labs | **📍 Progress:** 21 labs documented
 
 ### 🏆 Skill Proficiency by Difficulty
 
 | Difficulty Level | Completed | Total | Progress |
 |-----------------|-----------|-------|----------|
-| 🟢 **Apprentice** | 4 | 89 | ████░░░░░░░░░░░░░░░░ 4% |
+| 🟢 **Apprentice** | 6 | 89 | ███████░░░░░░░░░░░░░ 7% |
 | 🟡 **Practitioner** | 12 | 142 | ████████░░░░░░░░░░░░ 8% |
 | 🔴 **Expert** | 3 | 47 | ██░░░░░░░░░░░░░░░░░░ 6% |
 
@@ -227,6 +228,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 | 🔍 **Burp Suite** | ⭐⭐⭐⭐⭐ | Professional - Advanced web app testing |
 | 🔐 **Auth Attacks** | ⭐⭐⭐⭐⭐ | Expert - 14 labs mastered |
 | 💾 **Cache Attacks** | ⭐⭐⭐⭐⭐ | Expert - Complete category |
+| 💉 **SQL Injection** | ⭐⭐⭐⭐ | Active - Apprentice cleared, Practitioner in progress |
 
 </div>
 
@@ -243,8 +245,8 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 
 ✅ Authentication (14/14)  
 ✅ Web Cache Deception (5/5)  
-🔄 Starting SQL Injection  
-📋 Access Control Next  
+🔥 SQL Injection (2/18)  
+🔄 SQL Practitioner Active  
 
 </td>
 <td align="center" width="33%">
@@ -252,7 +254,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 ### 📅 Near Term
 **Expanding Skills**
 
-📋 SQL Injection (18 labs)  
+📋 SQL Injection (16 more labs)  
 📋 Access Control (13 labs)  
 📋 XSS (30 labs)  
 📋 Business Logic (11 labs)  
@@ -313,7 +315,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 💼 **Open to:** Red Team Internships | Security Research Collaboration | Mentorship  
 🌍 **Location:** Canada  
 🎯 **Specialization:** Web Application Penetration Testing | Offensive Security  
-🛡️ **Expertise:** Authentication Attacks | Web Cache Deception | OWASP Top 10  
+🛡️ **Expertise:** Authentication Attacks | Web Cache Deception | SQL Injection | OWASP Top 10  
 💻 **Core Skills:** Python | SQL | Linux | Bash | Burp Suite Professional  
 
 </div>
@@ -330,7 +332,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 ---
 
 **Gurpreet Singh** | Offensive Security Researcher | Red Team Operations  
-🔴 19 Labs Completed • 🛡️ Authentication Expert • 💾 Cache Attack Expert   
+🔴 21 Labs Completed • 🛡️ Authentication Expert • 💾 Cache Attack Expert • 💉 SQL Injection Active  
 💻 Python Expert • 💾 SQL Expert • 🐧 Linux Expert • 📜 Bash Expert
 
 *Active learner documenting every step of the journey*
