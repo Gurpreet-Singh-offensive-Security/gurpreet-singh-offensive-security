@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-I'm **Gurpreet Singh**, an aspiring Red Team Engineer building expertise through intensive hands-on penetration testing and vulnerability research. My focus is on practical, real-world offensive security techniques with comprehensive documentation of every exploitation.
+I'm **Gurpreet Singh**, an aspiring Penetration Tester & Ethical Hacker building expertise through intensive hands-on penetration testing and vulnerability research. My focus is on practical, real-world offensive security techniques with comprehensive documentation of every exploitation.
 
 <div align="center">
 
