@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ Gurpreet Singh
-### Red Team Engineer in Training | Offensive Security Specialist
+### Penetration Tester & Ethical Hacker in Training | Offensive Security Specialist
 
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-critical?style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/Labs%20Completed-21-success?style=for-the-badge&logo=target&logoColor=white" />
