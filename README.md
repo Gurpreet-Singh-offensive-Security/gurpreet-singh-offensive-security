@@ -1,17 +1,17 @@
 <div align="center">
 
 # 🛡️ Gurpreet Singh
-### Penetration Tester & Ethical Hacker in Training | Offensive Security Specialist
+### Offensive Security Researcher | Web Application Security Specialist
 
-<img src="https://img.shields.io/badge/Focus-Offensive%20Security-critical?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Labs%20Completed-21-success?style=for-the-badge&logo=target&logoColor=white" />
-<img src="https://img.shields.io/badge/Target-150%2B%20Labs-informational?style=for-the-badge&logo=bullseye&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Web%20Application%20Security-critical?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/Labs%20Documented-21-success?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Specialization-Authentication%20%26%20Cache%20Attacks-informational?style=for-the-badge&logo=shield&logoColor=white" />
 
 [![Portfolio](https://img.shields.io/badge/🎯_View_Portfolio-Offensive_Security_Labs-red?style=for-the-badge)](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
 
 ---
 
-**Gurpreet Singh** - Offensive security researcher specializing in web application penetration testing, vulnerability research, and red team operations. Currently documenting hands-on exploitation labs using Burp Suite Professional and advanced attack techniques.
+**Offensive security researcher specializing in web application penetration testing and vulnerability research. Expert in authentication bypass techniques and cache exploitation with systematic documentation of attack methodologies using Burp Suite Professional.**
 
 </div>
 
@@ -19,13 +19,17 @@
 
 ## 🎯 About Me
 
-I'm **Gurpreet Singh**, an aspiring Penetration Tester & Ethical Hacker building expertise through intensive hands-on penetration testing and vulnerability research. My focus is on practical, real-world offensive security techniques with comprehensive documentation of every exploitation.
+I'm **Gurpreet Singh**, an **Offensive Security Researcher** building expertise through systematic penetration testing and vulnerability research. My focus is on web application security with deep specialization in authentication attacks, cache exploitation, and SQL injection techniques.
+
+**Current specializations:**
+- ✅ Authentication bypass mechanisms (14 techniques mastered)
+- ✅ Web cache deception attacks (complete methodology)
+- 🔥 SQL injection exploitation (active research)
 
 <div align="center">
-
 ```
-🔴 Offensive Security    🐧 Linux Security        💻 Red Team Ops
-🔐 Web App PenTest      🐍 Python Automation     📝 Technical Writing
+🔴 Offensive Security    🐧 Linux Exploitation    💻 Vulnerability Research
+🔐 Web App PenTest      🐍 Python Automation     📝 Technical Documentation
 ```
 
 </div>
@@ -43,7 +47,7 @@ I'm **Gurpreet Singh**, an aspiring Penetration Tester & Ethical Hacker building
 - OWASP Top 10 vulnerabilities
 - Authentication & session attacks
 - Business logic exploitation
-- **21 labs completed** and growing
+- **21 labs documented** with detailed analysis
 
 </td>
 <td width="50%">
@@ -53,7 +57,7 @@ I'm **Gurpreet Singh**, an aspiring Penetration Tester & Ethical Hacker building
 - Kali Linux & penetration testing tools
 - Python scripting for automation
 - Custom exploit development
-- Professional documentation
+- Professional technical documentation
 
 </td>
 </tr>
@@ -65,7 +69,7 @@ I'm **Gurpreet Singh**, an aspiring Penetration Tester & Ethical Hacker building
 
 ### 🎯 [Offensive Security Labs](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
 
-> **Comprehensive documentation of web security exploitation and red team techniques**
+> **Comprehensive documentation of web security exploitation and attack methodologies**
 
 <details>
 <summary><b>📊 Project Statistics</b></summary>
@@ -109,14 +113,14 @@ I'm **Gurpreet Singh**, an aspiring Penetration Tester & Ethical Hacker building
 
 ## 🔧 Technical Arsenal
 
-### 💻 Programming & Scripting Expertise
+### 💻 Programming & Scripting
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Expert-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Proficient-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Proficient-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -131,15 +135,15 @@ I'm **Gurpreet Singh**, an aspiring Penetration Tester & Ethical Hacker building
 
 </div>
 
-### 🎯 Vulnerability Expertise
+### 🎯 Vulnerability Research Areas
 
 <div align="center">
 
-![Auth Bypass](https://img.shields.io/badge/Authentication_Bypass-Expert-red?style=for-the-badge)
-![Cache Attacks](https://img.shields.io/badge/Web_Cache_Deception-Expert-purple?style=for-the-badge)
+![Auth Bypass](https://img.shields.io/badge/Authentication_Bypass-Mastered-red?style=for-the-badge)
+![Cache Attacks](https://img.shields.io/badge/Web_Cache_Deception-Mastered-purple?style=for-the-badge)
 ![SQLi](https://img.shields.io/badge/SQL_Injection-Active-critical?style=for-the-badge)
-![XSS](https://img.shields.io/badge/Cross--Site_Scripting-Advanced-orange?style=for-the-badge)
-![Business Logic](https://img.shields.io/badge/Business_Logic-Advanced-9cf?style=for-the-badge)
+![XSS](https://img.shields.io/badge/Cross--Site_Scripting-Planned-orange?style=for-the-badge)
+![Business Logic](https://img.shields.io/badge/Business_Logic-Planned-9cf?style=for-the-badge)
 
 </div>
 
@@ -148,15 +152,15 @@ I'm **Gurpreet Singh**, an aspiring Penetration Tester & Ethical Hacker building
 # Gurpreet Singh - Offensive Security Arsenal
 expertise = {
     "Languages & Scripting": {
-        "Python": "Expert - Security automation & exploit development",
-        "SQL": "Expert - Database exploitation & injection techniques",
-        "Bash": "Expert - System automation & penetration testing scripts",
-        "Linux": "Expert - Kali Linux, command line, system administration"
+        "Python": "Proficient - Security automation & exploit development",
+        "SQL": "Advanced - Database exploitation & injection techniques",
+        "Bash": "Proficient - System automation & penetration testing scripts",
+        "Linux": "Proficient - Kali Linux, command line, system administration"
     },
-    "Web Application PenTest": [
-        "Authentication Bypass (14 labs completed)",
+    "Web Application Security": [
+        "Authentication Bypass (14 labs - Complete mastery)",
         "Web Cache Deception (5 labs - Complete mastery)",
-        "SQL Injection (2 labs - Apprentice cleared, Practitioner active)",
+        "SQL Injection (Active research - 2/18 labs)",
         "Cross-Site Scripting (XSS)", 
         "CSRF & Session Attacks",
         "Business Logic Exploitation",
@@ -169,17 +173,17 @@ expertise = {
         "Python Security Libraries",
         "Custom Exploit Development"
     ],
-    "Red Team Operations": [
-        "Reconnaissance & OSINT",
-        "Vulnerability Research",
-        "Exploit Development",
+    "Research Capabilities": [
+        "Vulnerability Research & Analysis",
         "Attack Chain Documentation",
-        "Network Enumeration"
+        "Exploit Development",
+        "Technical Writing & Reporting",
+        "CVSS Scoring & Impact Assessment"
     ]
 }
 ```
 
-### 🔄 Learning & Development Cycle
+### 🔄 Research & Documentation Cycle
 ```mermaid
 graph LR
     A[🔍 Research] --> B[⚡ Exploit]
@@ -207,28 +211,23 @@ Cross-Site Scripting     ░░░░░░░░░░░░░░░░░░�
 Overall Progress          ██░░░░░░░░░░░░░░░░░░   8% (21/278 labs)
 ```
 
-**🎯 Current Target:** Working toward 150+ labs | **📍 Progress:** 21 labs documented
+**🎯 Current Focus:** SQL Injection research & documentation | **📍 Progress:** 21 labs documented
 
-### 🏆 Skill Proficiency by Difficulty
+### 🏆 Mastered Categories
+
+| Category | Labs | Status |
+|----------|------|--------|
+| 🔓 **Authentication Attacks** | 14/14 | ✅ **Complete Mastery** |
+| 💾 **Web Cache Deception** | 5/5 | ✅ **Complete Mastery** |
+| 💉 **SQL Injection** | 2/18 | 🔥 **Active Research** |
+
+### 📊 Skill Proficiency by Difficulty
 
 | Difficulty Level | Completed | Total | Progress |
 |-----------------|-----------|-------|----------|
 | 🟢 **Apprentice** | 6 | 89 | ███████░░░░░░░░░░░░░ 7% |
 | 🟡 **Practitioner** | 12 | 142 | ████████░░░░░░░░░░░░ 8% |
 | 🔴 **Expert** | 3 | 47 | ██░░░░░░░░░░░░░░░░░░ 6% |
-
-### 🏆 Skill Proficiency by Domain
-
-| Domain | Level | Achievement |
-|--------|-------|-------------|
-| 🐍 **Python** | ⭐⭐⭐⭐⭐ | Expert - Security automation & exploit scripting |
-| 💾 **SQL** | ⭐⭐⭐⭐⭐ | Expert - Database exploitation & injection |
-| 🐧 **Linux** | ⭐⭐⭐⭐⭐ | Expert - Kali Linux & system administration |
-| 📜 **Bash** | ⭐⭐⭐⭐⭐ | Expert - Shell scripting & automation |
-| 🔍 **Burp Suite** | ⭐⭐⭐⭐⭐ | Professional - Advanced web app testing |
-| 🔐 **Auth Attacks** | ⭐⭐⭐⭐⭐ | Expert - 14 labs mastered |
-| 💾 **Cache Attacks** | ⭐⭐⭐⭐⭐ | Expert - Complete category |
-| 💉 **SQL Injection** | ⭐⭐⭐⭐ | Active - Apprentice cleared, Practitioner in progress |
 
 </div>
 
@@ -246,7 +245,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 ✅ Authentication (14/14)  
 ✅ Web Cache Deception (5/5)  
 🔥 SQL Injection (2/18)  
-🔄 SQL Practitioner Active  
+🔄 Practitioner Labs Active  
 
 </td>
 <td align="center" width="33%">
@@ -267,8 +266,8 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 
 📋 Advanced Topics (93 labs)  
 🎯 Target: 150+ labs  
-🎓 Security+ Prep  
-💼 Red Team Career  
+🎓 Security Certifications  
+💼 Red Team Career Path  
 
 </td>
 </tr>
@@ -282,18 +281,18 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 
 ### 🚀 Current Mission
 
-*Master web application security through systematic, hands-on exploitation. Every lab documented with professional analysis, custom Python scripts, and comprehensive screenshots demonstrating deep technical expertise in Python, SQL, Linux, and Bash.*
+*Master web application security through systematic, hands-on exploitation. Document attack methodologies with professional analysis, custom automation scripts, and comprehensive technical evidence.*
 
 ### 🌟 Long-term Vision
 
-*Become a Red Team Engineer specializing in offensive security operations, attack simulation, and advanced penetration testing for enterprise environments.*
+*Build expertise in offensive security operations with a focus on red team capabilities, advanced penetration testing, and enterprise security assessments.*
 
 ### 🎖️ Goals
 
 **Short Term:** Complete 50+ labs by Q2 2026  
-**Medium Term:** Master all OWASP Top 10 categories  
-**Long Term:** Target 150+ labs + Security+ Certification  
-**Career Goal:** Red Team Engineer position
+**Medium Term:** Master OWASP Top 10 categories  
+**Long Term:** 150+ labs + Professional certifications  
+**Career Goal:** Offensive Security Engineer / Red Team Operator
 
 </div>
 
@@ -303,20 +302,27 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-**Building skills for Red Team operations | Open to learning from experienced security professionals**
+**Open to security research collaboration and learning from experienced professionals**
 
 [![Email](https://img.shields.io/badge/Email-gskhalsa6245%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gskhalsa6245@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetsingh-security)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetsingh-security)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Offensive_Security_Labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
 
-### 📫 Get in Touch
+### 📫 Contact Information
 
-💬 **Contact:** Message on [Gmail](mailto:gskhalsa6245@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gurpreetsingh-security)  
-💼 **Open to:** Red Team Internships | Security Research Collaboration | Mentorship  
+💬 **Email:** [gskhalsa6245@gmail.com](mailto:gskhalsa6245@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/gurpreetsingh-security](https://www.linkedin.com/in/gurpreetsingh-security)  
 🌍 **Location:** Canada  
-🎯 **Specialization:** Web Application Penetration Testing | Offensive Security  
-🛡️ **Expertise:** Authentication Attacks | Web Cache Deception | SQL Injection | OWASP Top 10  
+🎯 **Specialization:** Web Application Penetration Testing | Vulnerability Research  
+🛡️ **Expertise:** Authentication Attacks | Web Cache Deception | SQL Injection  
 💻 **Core Skills:** Python | SQL | Linux | Bash | Burp Suite Professional  
+
+### 💼 Open To
+
+✅ Security Research Collaboration  
+✅ Offensive Security Internships  
+✅ Mentorship Opportunities  
+✅ Red Team Projects  
 
 </div>
 
@@ -331,10 +337,10 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 
 ---
 
-**Gurpreet Singh** | Offensive Security Researcher | Red Team Operations  
-🔴 21 Labs Completed • 🛡️ Authentication Expert • 💾 Cache Attack Expert • 💉 SQL Injection Active  
-💻 Python Expert • 💾 SQL Expert • 🐧 Linux Expert • 📜 Bash Expert
+**Gurpreet Singh** | Offensive Security Researcher | Web Application Security Specialist  
+🔴 21 Labs Documented • 🛡️ Authentication Expert • 💾 Cache Attack Expert • 💉 SQL Injection Research  
+💻 Python • 💾 SQL • 🐧 Linux • 📜 Bash • 🔍 Burp Suite Professional
 
-*Active learner documenting every step of the journey*
+*Systematically documenting the journey from researcher to Red Team operator*
 
 </div>
