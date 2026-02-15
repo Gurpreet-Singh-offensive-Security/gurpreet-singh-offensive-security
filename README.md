@@ -4,14 +4,14 @@
 ### Offensive Security Researcher | Web Application Security Specialist
 
 <img src="https://img.shields.io/badge/Focus-Web%20Application%20Security-critical?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Labs%20Documented-25-success?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Labs%20Documented-28-success?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/Specialization-Authentication%20%26%20Cache%20Attacks-informational?style=for-the-badge&logo=shield&logoColor=white" />
 
 [![Portfolio](https://img.shields.io/badge/🎯_View_Portfolio-Offensive_Security_Labs-red?style=for-the-badge)](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
 
 ---
 
-**Offensive security researcher specializing in web application penetration testing and vulnerability research. Expert in authentication bypass techniques and cache exploitation with systematic documentation of attack methodologies using Burp Suite Professional.**
+**Offensive security researcher specializing in web application penetration testing, vulnerability research, and red team operations. Expert in authentication bypass techniques and cache exploitation with systematic documentation of attack methodologies using Burp Suite Professional.**
 
 </div>
 
@@ -24,7 +24,7 @@ I'm **Gurpreet Singh**, an **Offensive Security Researcher** building expertise 
 **Current specializations:**
 - ✅ Authentication bypass mechanisms (14 techniques mastered)
 - ✅ Web cache deception attacks (complete methodology)
-- 🔥 SQL injection exploitation (active research - 6 labs completed)
+- 🔥 SQL injection exploitation (active research - 9 labs completed)
 
 <div align="center">
 
@@ -48,7 +48,7 @@ I'm **Gurpreet Singh**, an **Offensive Security Researcher** building expertise 
 - OWASP Top 10 vulnerabilities
 - Authentication & session attacks
 - Business logic exploitation
-- **25 labs documented** with detailed analysis
+- **28 labs documented** with detailed analysis
 
 </td>
 <td width="50%">
@@ -79,15 +79,15 @@ I'm **Gurpreet Singh**, an **Offensive Security Researcher** building expertise 
 |----------|--------|----------------|
 | 🔓 **Authentication Attacks** | ✅ **Complete** | **14/14 labs** |
 | 💾 **Web Cache Deception** | ✅ **Complete** | **5/5 labs** |
-| 💉 **SQL Injection** | 🔥 **Active** | **6/18 labs** |
+| 💉 **SQL Injection** | 🔥 **Active** | **9/18 labs** |
 | 🎨 Cross-Site Scripting (XSS) | 📋 Planned | Coming soon |
 | 🔗 CSRF & Session Attacks | 📋 Planned | Coming soon |
 
-**Total Progress:** 25 labs completed | **Goal:** Working toward 150+ labs
+**Total Progress:** 28 labs completed | **Goal:** Working toward 150+ labs
 
 **Breakdown by Difficulty:**
 - 🟢 Apprentice: 6 labs
-- 🟡 Practitioner: 16 labs  
+- 🟡 Practitioner: 19 labs  
 - 🔴 Expert: 3 labs
 
 </details>
@@ -102,12 +102,12 @@ I'm **Gurpreet Singh**, an **Offensive Security Researcher** building expertise 
 - ✅ **Remediation guidance** and secure coding recommendations
 
 **Recent Highlights:**
-- 🎯 SQL Injection UNION Attacks (4 labs completed)
+- 🎯 SQL Injection UNION Attacks (Multiple labs completed)
+- 🎯 Database Version Enumeration (Oracle & MySQL)
 - 🎯 SQL Injection Apprentice Labs (Completed)
 - 🎯 Broken Brute-Force Protection Bypass (Turbo Intruder + Python)
 - 🎯 2FA Bypass Techniques (Multiple methods)
 - 🎯 Web Cache Deception (Advanced normalization exploitation)
-- 🎯 Password Reset Poisoning (Middleware manipulation)
 
 </details>
 
@@ -162,7 +162,7 @@ expertise = {
     "Web Application Security": [
         "Authentication Bypass (14 labs - Complete mastery)",
         "Web Cache Deception (5 labs - Complete mastery)",
-        "SQL Injection (Active research - 6/18 labs)",
+        "SQL Injection (Active research - 9/18 labs)",
         "Cross-Site Scripting (XSS)", 
         "CSRF & Session Attacks",
         "Business Logic Exploitation",
@@ -208,12 +208,12 @@ graph LR
 ```
 Authentication Attacks    ████████████████████ 100% (14/14 labs)
 Web Cache Deception      ████████████████████ 100% (5/5 labs)
-SQL Injection            ██████░░░░░░░░░░░░░░  33% (6/18 labs)
+SQL Injection            █████████░░░░░░░░░░░  50% (9/18 labs)
 Cross-Site Scripting     ░░░░░░░░░░░░░░░░░░░░   0% (Planned)
-Overall Progress          ██░░░░░░░░░░░░░░░░░░   9% (25/278 labs)
+Overall Progress          ██░░░░░░░░░░░░░░░░░░  10% (28/278 labs)
 ```
 
-**🎯 Current Focus:** SQL Injection research & documentation | **📍 Progress:** 25 labs documented
+**🎯 Current Focus:** SQL Injection research & documentation | **📍 Progress:** 28 labs documented
 
 ### 🏆 Mastered Categories
 
@@ -221,14 +221,14 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 |----------|------|--------|
 | 🔓 **Authentication Attacks** | 14/14 | ✅ **Complete Mastery** |
 | 💾 **Web Cache Deception** | 5/5 | ✅ **Complete Mastery** |
-| 💉 **SQL Injection** | 6/18 | 🔥 **Active Research** |
+| 💉 **SQL Injection** | 9/18 | 🔥 **Active Research** |
 
 ### 📊 Skill Proficiency by Difficulty
 
 | Difficulty Level | Completed | Total | Progress |
 |-----------------|-----------|-------|----------|
 | 🟢 **Apprentice** | 6 | 89 | ███████░░░░░░░░░░░░░ 7% |
-| 🟡 **Practitioner** | 16 | 142 | ███████████░░░░░░░░░ 11% |
+| 🟡 **Practitioner** | 19 | 142 | █████████████░░░░░░░ 13% |
 | 🔴 **Expert** | 3 | 47 | ██░░░░░░░░░░░░░░░░░░ 6% |
 
 </div>
@@ -246,7 +246,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 
 ✅ Authentication (14/14)  
 ✅ Web Cache Deception (5/5)  
-🔥 SQL Injection (6/18)  
+🔥 SQL Injection (9/18)  
 🔄 Practitioner Labs Active  
 
 </td>
@@ -255,7 +255,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 ### 📅 Near Term
 **Expanding Skills**
 
-📋 SQL Injection (12 more labs)  
+📋 SQL Injection (9 more labs)  
 📋 Access Control (13 labs)  
 📋 XSS (30 labs)  
 📋 Business Logic (11 labs)  
@@ -340,7 +340,7 @@ Overall Progress          ██░░░░░░░░░░░░░░░░
 ---
 
 **Gurpreet Singh** | Offensive Security Researcher | Web Application Security Specialist  
-🔴 25 Labs Documented • 🛡️ Authentication Expert • 💾 Cache Attack Expert • 💉 SQL Injection Research  
+🔴 28 Labs Documented • 🛡️ Authentication Expert • 💾 Cache Attack Expert • 💉 SQL Injection Research  
 💻 Python • 💾 SQL • 🐧 Linux • 📜 Bash • 🔍 Burp Suite Professional
 
 *Systematically documenting the journey from researcher to Red Team operator*
