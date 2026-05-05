@@ -14,13 +14,13 @@
 
 ---
 
-Web application security researcher. I don't just complete labs — I break down exactly why each vulnerability exists, how the application logic fails, and what an attacker can realistically do with it.
+I break web applications for practice and document everything.
 
-Three categories fully documented so far: authentication (all 14 labs including Expert-level MFA brute force with Burp macros and JSON array credential stuffing), web cache deception (all 5 labs including origin and cache server normalization bypasses), and SQL injection (all 18 labs through blind out-of-band exfiltration and XML filter bypass). Every writeup covers the attack, the exploit I built, and the remediation — not surface level.
+Currently pushing through PortSwigger's full lab catalog — 46 done, 232 to go. Authentication, web cache deception, and SQL injection are fully documented. Each writeup covers the full attack chain, the exploit I built, and why the application was vulnerable — not what the hint said to do.
 
-For anything involving custom rate limit bypass or automation I write Turbo Intruder scripts and Python. I also use AI as a precision tool — faster documentation, sharper technical analysis, better cross-referencing between techniques. That combination — deep manual exploitation with efficient tooling around it — is how I work.
+Tools I actually use: Burp Suite Pro, Turbo Intruder, Python, Kali. Working toward eWPTX and BSCP.
 
-Targeting appsec engineering, penetration testing, and red team roles. The labs repo below is the most accurate representation of where I'm at technically. Start there.
+If you want to know what I can do technically, read the writeups. That's the point of this.
 
 ---
 
