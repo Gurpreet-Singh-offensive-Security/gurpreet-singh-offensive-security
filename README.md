@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Gurpreet%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Offensive%20Security%20%C2%B7%20Penetration%20Testing%20%C2%B7%20Red%20Team&descSize=16&descAlignY=62&descColor=FFD700" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Gurpreet%20Singh&fontSize=42&fontColor=1a1a1a&fontAlignY=40&desc=Offensive%20Security%20%C2%B7%20Penetration%20Testing%20%C2%B7%20Red%20Team&descSize=16&descAlignY=62&descColor=8B0000" width="100%"/>
 </a>
 
 [![Email](https://img.shields.io/badge/Email-gskhalsa6245%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gskhalsa6245@gmail.com)
