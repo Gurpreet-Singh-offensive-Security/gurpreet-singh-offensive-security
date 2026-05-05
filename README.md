@@ -1,13 +1,11 @@
 <div align="center">
-
 <a href="https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e34c26&height=130&section=header&text=Gurpreet%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Offensive%20Security%20%C2%B7%20Penetration%20Testing%20%C2%B7%20Red%20Team&descSize=14&descAlignY=72&descColor=FFE066" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=130&section=header&text=Gurpreet%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Offensive%20Security%20%C2%B7%20Penetration%20Testing%20%C2%B7%20Red%20Team&descSize=14&descAlignY=72&descColor=FFD700" width="100%"/>
 </a>
 
 [![Email](https://img.shields.io/badge/Email-gskhalsa6245%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gskhalsa6245@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gurpreetsingh--security-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetsingh-security)
 [![Labs](https://img.shields.io/badge/Offensive%20Security%20Labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
-
 ![Web AppSec](https://img.shields.io/badge/Web%20Application%20Security-Research-critical?style=for-the-badge&logo=bugcrowd&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-BB1919?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Red Teaming](https://img.shields.io/badge/Red%20Teaming-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
