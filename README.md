@@ -6,75 +6,64 @@
 [![Email](https://img.shields.io/badge/Email-gskhalsa6245%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gskhalsa6245@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gurpreetsingh--security-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetsingh-security)
 [![Labs](https://img.shields.io/badge/Offensive%20Security%20Labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
-![Web AppSec](https://img.shields.io/badge/Web%20Application%20Security-Research-critical?style=for-the-badge&logo=bugcrowd&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-BB1919?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Red Teaming](https://img.shields.io/badge/Red%20Teaming-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 </div>
 
 ---
----
+
+> *Web application security is about understanding how trust breaks down — authentication assumptions, cache logic flaws, injection points developers never considered an attack surface.*
 
 ---
 
-> *Web application security is about understanding how trust breaks down.*
+**Attack Surface**
 
-**What I do:**
+![Auth](https://img.shields.io/badge/Authentication-Enumeration%20%7C%20MFA%20Bypass%20%7C%20Session%20Hijacking-8B0000?style=for-the-badge)
+![Cache](https://img.shields.io/badge/Web%20Cache%20Deception-Path%20Normalization%20%7C%20Delimiter%20Bypass%20%7C%20Poisoning-8B0000?style=for-the-badge)
+![SQLi](https://img.shields.io/badge/SQL%20Injection-Blind%20OOB%20%7C%20Error%20Based%20%7C%20WAF%20Bypass-8B0000?style=for-the-badge)
+![Access](https://img.shields.io/badge/Access%20Control-Privilege%20Escalation%20%7C%20IDOR%20--%20In%20Progress-BB1919?style=for-the-badge)
 
-![Approach](https://img.shields.io/badge/Approach-Attacker%20Mindset-8B0000?style=for-the-badge)
-![Method](https://img.shields.io/badge/Method-Manual%20Exploitation-BB1919?style=for-the-badge)
-![Output](https://img.shields.io/badge/Output-Pentest%20Grade%20Writeups-FFD700?style=for-the-badge&labelColor=1a1a1a)
+---
 
-**My Arsenal:**
+**How I Operate**
 
-![Burp Suite Pro](https://img.shields.io/badge/Burp%20Suite-Professional-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Automation%20%26%20Exploit%20Dev-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Primary%20OS-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Recon%20%26%20Enumeration-0E83CD?style=for-the-badge&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge&logoColor=white)
+![Step1](https://img.shields.io/badge/01-Map%20The%20Attack%20Surface-1a1a1a?style=for-the-badge&labelColor=FFD700)
+![Step2](https://img.shields.io/badge/02-Build%20The%20Exploit%20From%20Scratch-1a1a1a?style=for-the-badge&labelColor=FFD700)
+![Step3](https://img.shields.io/badge/03-Document%20Root%20Cause%20%26%20Impact-1a1a1a?style=for-the-badge&labelColor=FFD700)
+![Step4](https://img.shields.io/badge/04-Write%20The%20Fix%20That%20Actually%20Works-1a1a1a?style=for-the-badge&labelColor=FFD700)
+
+---
+**Tooling**
+
+![Burp](https://img.shields.io/badge/Burp%20Suite%20Pro-Primary%20Proxy%20%26%20Attack%20Platform-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-Exploit%20Development%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![TurboIntruder](https://img.shields.io/badge/Turbo%20Intruder-Rate%20Limit%20Bypass%20%26%20Automation-8B0000?style=for-the-badge)
+
+![Kali](https://img.shields.io/badge/Kali%20Linux-Primary%20Operating%20System-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+![Bash](https://img.shields.io/badge/Bash-Scripting%20%26%20Workflow%20Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![PortSwigger](https://img.shields.io/badge/PortSwigger-46%2F278%20Labs-FF6633?style=for-the-badge&logoColor=white)
-![Turbo Intruder](https://img.shields.io/badge/Turbo%20Intruder-Rate%20Limit%20Bypass-8B0000?style=for-the-badge&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-**How I work:**
 
-![Recon](https://img.shields.io/badge/1-Map%20Attack%20Surface-1a1a1a?style=for-the-badge)
-![Exploit](https://img.shields.io/badge/2-Build%20The%20Exploit-8B0000?style=for-the-badge)
-![Document](https://img.shields.io/badge/3-Document%20Root%20Cause-FFD700?style=for-the-badge&labelColor=1a1a1a)
-![Remediate](https://img.shields.io/badge/4-Write%20The%20Fix-1a1a1a?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Recon%20%26%20Enumeration-0E83CD?style=for-the-badge)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation%20Framework-2596CD?style=for-the-badge)
 
 ---
 
----
+**Current Operation**
+
+![Current](https://img.shields.io/badge/Access%20Control-Broken%20Object%20Level%20Auth%20%7C%20Privilege%20Escalation%20%7C%20IDOR-8B0000?style=for-the-badge)
+![Progress](https://img.shields.io/badge/PortSwigger%20Labs-46%20of%20278%20Documented-FFD700?style=for-the-badge&labelColor=1a1a1a)
+![Certs](https://img.shields.io/badge/Certifications-eWPTX%20%26%20BSCP%20In%20Progress-1a1a1a?style=for-the-badge&labelColor=8B0000)
 
 ---
+
+*The writeups are the work. Everything else is just context.*
 
 ## [Offensive Security Labs →](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
 
-| Category | Done | Total | Status |
-|:---------|:----:|:-----:|:-------|
-| Authentication | 14 | 14 | Complete |
-| Web Cache Deception | 5 | 5 | Complete |
-| SQL Injection | 18 | 18 | Complete |
-| Access Control | 0 | 13 | Active |
-| XSS | 0 | 30 | Q2 2026 |
-| Clickjacking | 0 | 4 | Q3 2026 |
-| HTTP Request Smuggling | 0 | 21 | 2027 |
-
----
-
-## Tools
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Professional-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
+*46 labs documented across authentication, web cache deception, and SQL injection. Access control in progress.*
 
 > © 2026 Gurpreet Singh — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Feel free to reference for learning; don't submit as your own work.
