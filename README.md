@@ -25,13 +25,18 @@
 ![Method](https://img.shields.io/badge/Method-Manual%20Exploitation-BB1919?style=for-the-badge)
 ![Output](https://img.shields.io/badge/Output-Pentest%20Grade%20Writeups-FFD700?style=for-the-badge&labelColor=1a1a1a)
 
-**What I've broken:**
+**My Arsenal:**
 
-![Auth](https://img.shields.io/badge/Authentication-14%20Labs%20Complete-success?style=for-the-badge)
-![Cache](https://img.shields.io/badge/Web%20Cache%20Deception-5%20Labs%20Complete-success?style=for-the-badge)
-![SQLi](https://img.shields.io/badge/SQL%20Injection-18%20Labs%20Complete-success?style=for-the-badge)
-![Access](https://img.shields.io/badge/Access%20Control-In%20Progress-red?style=for-the-badge)
-
+![Burp Suite Pro](https://img.shields.io/badge/Burp%20Suite-Professional-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation%20%26%20Exploit%20Dev-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Primary%20OS-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Recon%20%26%20Enumeration-0E83CD?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-46%2F278%20Labs-FF6633?style=for-the-badge&logoColor=white)
+![Turbo Intruder](https://img.shields.io/badge/Turbo%20Intruder-Rate%20Limit%20Bypass-8B0000?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 **How I work:**
 
 ![Recon](https://img.shields.io/badge/1-Map%20Attack%20Surface-1a1a1a?style=for-the-badge)
