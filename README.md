@@ -15,19 +15,31 @@
 ---
 ---
 
-*Web application security is about understanding how trust breaks down — authentication assumptions, cache logic flaws, injection points that developers never considered an attack surface.*
+---
 
-Most vulnerabilities exist because developers make assumptions about how their application will be used. My job is to find where those assumptions fail. I approach every vulnerability class the same way — understand the technology, map the attack surface, build the exploit, document why it worked and what the real-world impact looks like.
+> *Web application security is about understanding how trust breaks down.*
 
-So far I've worked through authentication flaws end to end — enumeration, brute force bypass, MFA logic weaknesses, session handling failures, password reset vulnerabilities. Not just exploiting them but understanding the exact point where the application trusted input it shouldn't have. Web cache deception followed the same methodology — path normalization discrepancies between origin and cache servers, delimiter handling differences, static extension bypasses that expose authenticated responses to unauthenticated cache poisoning.
+**What I do:**
 
-SQL injection I've taken from basic WHERE clause manipulation through full blind out-of-band exfiltration. Oracle conditional error exploitation, Cluster Bomb automation for character-by-character extraction, XML filter bypass using encoding to evade WAF detection — every technique documented with the full attack chain, the payload I built, and the remediation that actually fixes the root cause rather than patching the symptom.
+![Approach](https://img.shields.io/badge/Approach-Attacker%20Mindset-8B0000?style=for-the-badge)
+![Method](https://img.shields.io/badge/Method-Manual%20Exploitation-BB1919?style=for-the-badge)
+![Output](https://img.shields.io/badge/Output-Pentest%20Grade%20Writeups-FFD700?style=for-the-badge&labelColor=1a1a1a)
 
-For anything requiring automation I write Turbo Intruder scripts and Python. Rate limit bypass, credential stuffing, blind injection extraction — whatever the lab requires I build the tooling rather than relying on point-and-click.
+**What I've broken:**
 
-Currently working through access controls and privilege escalation paths. The full writeup catalog is in the repo below — read those before making any judgments about technical depth.
+![Auth](https://img.shields.io/badge/Authentication-14%20Labs%20Complete-success?style=for-the-badge)
+![Cache](https://img.shields.io/badge/Web%20Cache%20Deception-5%20Labs%20Complete-success?style=for-the-badge)
+![SQLi](https://img.shields.io/badge/SQL%20Injection-18%20Labs%20Complete-success?style=for-the-badge)
+![Access](https://img.shields.io/badge/Access%20Control-In%20Progress-red?style=for-the-badge)
 
-*If you want to know what I can do, the work is there. That's the point of this.*
+**How I work:**
+
+![Recon](https://img.shields.io/badge/1-Map%20Attack%20Surface-1a1a1a?style=for-the-badge)
+![Exploit](https://img.shields.io/badge/2-Build%20The%20Exploit-8B0000?style=for-the-badge)
+![Document](https://img.shields.io/badge/3-Document%20Root%20Cause-FFD700?style=for-the-badge&labelColor=1a1a1a)
+![Remediate](https://img.shields.io/badge/4-Write%20The%20Fix-1a1a1a?style=for-the-badge)
+
+---
 
 ---
 
