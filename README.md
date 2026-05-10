@@ -13,14 +13,23 @@
 </div>
 
 ---
+---
 
-I break web applications for practice and document everything.
+*Web application security is about understanding how trust breaks down — authentication assumptions, cache logic flaws, injection points that developers never considered an attack surface.*
 
-Currently pushing through PortSwigger's full lab catalog — 46 done, 232 to go. Authentication, web cache deception, and SQL injection are fully documented. Each writeup covers the full attack chain, the exploit I built, and why the application was vulnerable — not what the hint said to do.
+Most vulnerabilities exist because developers make assumptions about how their application will be used. My job is to find where those assumptions fail. I approach every vulnerability class the same way — understand the technology, map the attack surface, build the exploit, document why it worked and what the real-world impact looks like.
 
-Tools I actually use: Burp Suite Pro, Turbo Intruder, Python, Kali. Working toward eWPTX and BSCP.
+So far I've worked through authentication flaws end to end — enumeration, brute force bypass, MFA logic weaknesses, session handling failures, password reset vulnerabilities. Not just exploiting them but understanding the exact point where the application trusted input it shouldn't have. Web cache deception followed the same methodology — path normalization discrepancies between origin and cache servers, delimiter handling differences, static extension bypasses that expose authenticated responses to unauthenticated cache poisoning.
 
-If you want to know what I can do technically, read the writeups. That's the point of this.
+SQL injection I've taken from basic WHERE clause manipulation through full blind out-of-band exfiltration. Oracle conditional error exploitation, Cluster Bomb automation for character-by-character extraction, XML filter bypass using encoding to evade WAF detection — every technique documented with the full attack chain, the payload I built, and the remediation that actually fixes the root cause rather than patching the symptom.
+
+For anything requiring automation I write Turbo Intruder scripts and Python. Rate limit bypass, credential stuffing, blind injection extraction — whatever the lab requires I build the tooling rather than relying on point-and-click.
+
+Currently working through access controls and privilege escalation paths. The full writeup catalog is in the repo below — read those before making any judgments about technical depth.
+
+*If you want to know what I can do, the work is there. That's the point of this.*
+
+---
 
 ---
 
