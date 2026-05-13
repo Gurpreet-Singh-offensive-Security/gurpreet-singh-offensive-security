@@ -55,7 +55,7 @@
 **Current Operation**
 
 ![Current](https://img.shields.io/badge/Access%20Control-Broken%20Object%20Level%20Auth%20%7C%20Privilege%20Escalation%20%7C%20IDOR-8B0000?style=for-the-badge)
-![Progress](https://img.shields.io/badge/PortSwigger%20Labs-46%20of%20278%20Documented-FFD700?style=for-the-badge&labelColor=1a1a1a)
+![Progress](https://img.shields.io/badge/PortSwigger%20Labs-37%20of%20278%20Documented-FFD700?style=for-the-badge&labelColor=1a1a1a)
 ![Certs](https://img.shields.io/badge/Certifications-eWPTX%20%26%20BSCP%20In%20Progress-1a1a1a?style=for-the-badge&labelColor=8B0000)
 
 ---
