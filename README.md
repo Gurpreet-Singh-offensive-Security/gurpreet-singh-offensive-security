@@ -20,6 +20,8 @@
 ![Auth](https://img.shields.io/badge/Authentication-Enumeration%20%7C%20MFA%20Bypass%20%7C%20Session%20Hijacking-8B0000?style=for-the-badge)
 ![Cache](https://img.shields.io/badge/Web%20Cache%20Deception-Path%20Normalization%20%7C%20Delimiter%20Bypass%20%7C%20Poisoning-8B0000?style=for-the-badge)
 ![SQLi](https://img.shields.io/badge/SQL%20Injection-Blind%20OOB%20%7C%20Error%20Based%20%7C%20WAF%20Bypass-8B0000?style=for-the-badge)
+![PathTraversal](https://img.shields.io/badge/Path%20Traversal-Directory%20Traversal%20%7C%20Filter%20Bypass-8B0000?style=for-the-badge)
+![CMDi](https://img.shields.io/badge/OS%20Command%20Injection-Blind%20%7C%20OOB%20%7C%20Time%20Delays-8B0000?style=for-the-badge)
 ![Access](https://img.shields.io/badge/Access%20Control-Privilege%20Escalation%20%7C%20IDOR%20--%20In%20Progress-BB1919?style=for-the-badge)
 
 ---
@@ -32,6 +34,7 @@
 ![Step4](https://img.shields.io/badge/04-Write%20The%20Fix%20That%20Actually%20Works-1a1a1a?style=for-the-badge&labelColor=FFD700)
 
 ---
+
 **Tooling**
 
 ![Burp](https://img.shields.io/badge/Burp%20Suite%20Pro-Primary%20Proxy%20%26%20Attack%20Platform-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -54,8 +57,8 @@
 
 **Current Operation**
 
-![Current](https://img.shields.io/badge/Path%20Traversal-Broken%20Object%20Level%20Auth%20%7C%20Privilege%20Escalation%20%7C%20IDOR-8B0000?style=for-the-badge)
-![Progress](https://img.shields.io/badge/PortSwigger%20Labs-43%20of%20278%20Documented-FFD700?style=for-the-badge&labelColor=1a1a1a)
+![Current](https://img.shields.io/badge/Access%20Control-Broken%20Object%20Level%20Auth%20%7C%20Privilege%20Escalation%20%7C%20IDOR-8B0000?style=for-the-badge)
+![Progress](https://img.shields.io/badge/PortSwigger%20Labs-48%20of%20278%20Documented-FFD700?style=for-the-badge&labelColor=1a1a1a)
 ![Certs](https://img.shields.io/badge/Certifications-PWPT%20Professional%20In%20Progress-1a1a1a?style=for-the-badge&labelColor=8B0000)
 
 ---
@@ -64,6 +67,6 @@
 
 ## [Offensive Security Labs →](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
 
-*46 labs documented across authentication, web cache deception, and SQL injection. Access control in progress.*
+*48 labs documented across authentication, web cache deception, SQL injection, path traversal, and OS command injection. Access control in progress.*
 
 > © 2026 Gurpreet Singh — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Feel free to reference for learning; don't submit as your own work.
