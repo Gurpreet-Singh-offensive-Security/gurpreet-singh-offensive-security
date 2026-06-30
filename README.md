@@ -59,7 +59,6 @@
 
 ![Current](https://img.shields.io/badge/Access%20Control-Broken%20Object%20Level%20Auth%20%7C%20Privilege%20Escalation%20%7C%20IDOR-8B0000?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/PortSwigger%20Labs-48%20of%20278%20Documented-FFD700?style=for-the-badge&labelColor=1a1a1a)
-![Certs](https://img.shields.io/badge/Certifications-PNPT%20Professional%20In%20Progress-1a1a1a?style=for-the-badge&labelColor=8B0000)
 
 ---
 
@@ -67,6 +66,6 @@
 
 ## [Offensive Security Labs →](https://github.com/Gurpreet-Singh-offensive-Security/Offensive-Security-Labs)
 
-*48 labs documented across authentication, web cache deception, SQL injection, path traversal, and OS command injection. Access control in progress.*
+*48 labs documented across authentication, web cache deception, SQL injection, path traversal, and OS command injection. Business Logic in progress.*
 
 > © 2026 Gurpreet Singh — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Feel free to reference for learning; don't submit as your own work.
